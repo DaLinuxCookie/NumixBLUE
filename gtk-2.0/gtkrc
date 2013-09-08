@@ -1,6 +1,6 @@
 # Numix GTK Theme
 
-gtk_color_scheme = "base_color:#f9f9f9\nbg_color:#dedede\ntooltip_bg_color:#2d2d2d\nselected_bg_color:#00a7fc\ntext_color:#555555\nfg_color:#555555\ntooltip_fg_color:#dedede\nselected_fg_color:#f9f9f9\nmenubar_bg_color:#2d2d2d\nmenubar_fg_color:#ededed\ntoolbar_bg_color:#dedede\ntoolbar_fg_color:#555555\nmenu_bg_color:#2d2d2d\nmenu_fg_color:#ededed\npanel_bg_color:#2d2d2d\npanel_fg_color:#ededed\nlink_color:#00a7fc"
+gtk_color_scheme = "base_color:#f9f9f9\nbg_color:#dedede\ntooltip_bg_color:#2d2d2d\nselected_bg_color:#00a7fc\ntext_color:#555555\nfg_color:#555555\ntooltip_fg_color:#ededed\nselected_fg_color:#f9f9f9\nmenubar_bg_color:#2d2d2d\nmenubar_fg_color:#ededed\ntoolbar_bg_color:#dedede\ntoolbar_fg_color:#555555\nmenu_bg_color:#2d2d2d\nmenu_fg_color:#ededed\npanel_bg_color:#2d2d2d\npanel_fg_color:#ededed\nlink_color:#00a7fc"
 
 # Default Style
 gtk-icon-sizes = "panel=16,16:gtk-button=16,16" # Icon sizesr
