@@ -3,17 +3,18 @@ Numix is a modern flat theme with a combination of light and dark elements creat
 NumixBLUE is a modified Numix theme with blue replacing the original orange color.
 It contains a GTK 2 and GTK 3 themes as well as an Openbox one.
 
-### Installation:
+### Installation
 
 Extract the tarball file to the themes directory i.e. "/usr/share/themes/" or "~/.themes"
 
 Use LXAppearance or your preferred tool to change the theme.
-
-
-License: GPL-3.0+
 
 ### Requirements
 
 GTK+ 3.6 or above
 
 Murrine theme engine
+
+### License
+
+License: GPL-3.0+
