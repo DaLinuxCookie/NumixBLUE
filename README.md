@@ -1,4 +1,4 @@
-Numix is a modern flat theme with a combination of light and dark elements created by Satyajit Sahoo (http://satya164.deviantart.com/art/Numix-GTK3-theme-360223962)
+Numix is a modern flat theme with a combination of light and dark elements created by Satyajit Sahoo (https://github.com/shimmerproject/Numix)
 
 NumixBLUE is a modified Numix theme with blue replacing the original orange color.
 It contains a GTK 2 and GTK 3 themes as well as an Openbox one.
