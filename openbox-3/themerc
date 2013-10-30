@@ -1,5 +1,5 @@
 # Original version by Satyajit Sahoo
-# Modified version by DaLinuxCookie
+# Blue version by DaLinuxCookie
 # License: GPL-3.0+
 
 
@@ -8,16 +8,16 @@ menu.border.color: #2d2d2d
 
 menu.title.bg: flat solid
 menu.title.bg.color: #2d2d2d
-menu.title.text.color: #ededed
+menu.title.text.color: #dcdcdc
 menu.title.text.justify: center
 
 menu.items.bg: flat solid
 menu.items.bg.color: #2d2d2d
-menu.items.text.color: #ededed
+menu.items.text.color: #dcdcdc
 menu.items.disabled.text.color: #888888
 
 menu.items.active.bg: flat solid
-menu.items.active.bg.color: #00a7fc
+menu.items.active.bg.color: #00a0ff
 menu.items.active.text.color: #f9f9f9
 
 menu.separator.color: #262626
@@ -35,7 +35,7 @@ window.active.title.separator.color: #2d2d2d
 window.active.text.justify: center
 
 window.active.label.bg: parentrelative
-window.active.label.text.color: #ededed
+window.active.label.text.color: #dcdcdc
 
 window.active.handle.bg: flat solid
 window.active.handle.bg.color: #2d2d2d
@@ -45,11 +45,11 @@ window.active.grip.bg.color: #2d2d2d
 
 window.active.button.unpressed.bg: flat solid
 window.active.button.unpressed.bg.color: #2d2d2d
-window.active.button.unpressed.image.color: #ededed
+window.active.button.unpressed.image.color: #dcdcdc
 
 window.active.button.pressed.bg: flat solid
 window.active.button.pressed.bg.color: #2d2d2d
-window.active.button.pressed.image.color: #00a7fc
+window.active.button.pressed.image.color: #00a0ff
 
 window.active.button.disabled.bg: flat solid
 window.active.button.disabled.bg.color: #2d2d2d
@@ -79,7 +79,7 @@ window.inactive.button.unpressed.image.color: #888888
 
 window.inactive.button.pressed.bg: flat solid
 window.inactive.button.pressed.bg.color: #2d2d2d
-window.inactive.button.pressed.image.color: #00a7fc
+window.inactive.button.pressed.image.color: #00a0ff
 
 window.inactive.button.disabled.bg: flat solid
 window.inactive.button.disabled.bg.color: #2d2d2d
@@ -94,10 +94,10 @@ osd.bg: flat solid
 osd.bg.color: #2d2d2d
 osd.label.bg: flat solid
 osd.label.bg.color: #2d2d2d
-osd.label.text.color: #ededed
+osd.label.text.color: #dcdcdc
 
 osd.hilight.bg: flat solid
-osd.hilight.bg.color: #00a7fc
+osd.hilight.bg.color: #00a0ff
 
 osd.unhilight.bg: flat solid
 osd.unhilight.bg.color: #888888
@@ -114,7 +114,7 @@ osd.button.focused.bg: flat solid border
 osd.button.focused.bg.color: #303030
 osd.button.focused.*.border.color: #1e1e1e
 
-osd.button.focused.box.color: #00a7fc
+osd.button.focused.box.color: #00a0ff
 
 
 # Fonts
